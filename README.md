@@ -40,7 +40,7 @@ To use the `bigint.c` program for big integer arithmetic, follow these steps:
  ![Screenshot 2023-10-26 184503](https://github.com/Jaiyadav88/BIGINTEGER/assets/90555918/f182f9ad-495e-470b-ac91-04374888a72f)
 
 ## Output
-
+![Screenshot 2023-10-26 185257](https://github.com/Jaiyadav88/BIGINTEGER/assets/90555918/91bcdf61-137c-4180-bf0b-3ee070cfe89d)
 ## License
 
 This repository is provided under the [MIT License](LICENSE), allowing for open-source use and modification. Refer to the LICENSE file for more details.
