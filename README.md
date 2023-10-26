@@ -16,26 +16,30 @@ The C program provided here offers a collection of functions for performing the 
 
 ## Features
 
-- **Single Program, Multiple Operations**: The C program, `bigint_operations.c`, combines all the big integer operations into one file for ease of use.
+- **Single Program, Multiple Operations**: The C program, `biginteger.c`, combines all the big integer operations into one file for ease of use.
 - **Flexible Usage**: Easily integrate the program into your C projects to work with large integers.
-- **Example Code**: The "examples" directory includes sample C programs demonstrating how to use the `bigint_operations.c` program for various arithmetic operations.
-- **Contributions Welcome**: Contributions and improvements to the code are encouraged. Feel free to submit pull requests to enhance functionality, optimize performance, or improve code quality.
+- **Code**: The directory includes sample C programs demonstrating how to use the `biginteger.c` program for various arithmetic operations.
+- **Contributions Welcome**: Contributions and improvements to the code are encouraged. Feel free to submit pull requests to enhance functionality, optimize 
+  performance, or improve code quality.
 
 ## Usage
 
-To use the `bigint_operations.c` program for big integer arithmetic, follow these steps:
+To use the `bigint.c` program for big integer arithmetic, follow these steps:
 
 1. Clone or download this repository to your local machine.
 
-2. Include `bigint_operations.c` in your C project.
+2. Include `bigint.c` in your C project.
 
-3. In your project, include the header file `bigint_operations.h` and call the functions for the desired arithmetic operations.
+3. In your project, include the header file `Arithmetic.h` and call the functions for the desired arithmetic operations.
 
 4. The code is designed to handle large integers, ensuring accurate results for various arithmetic operations.
 
-## Examples
+5.This file does not contain main function, feel free to import your main function and use it as per your choice
 
-Explore the "examples" directory for sample C programs that demonstrate how to use the `bigint_operations.c` program to perform different operations on big integers.
+ For Instance:
+ ![Screenshot 2023-10-26 184503](https://github.com/Jaiyadav88/BIGINTEGER/assets/90555918/f182f9ad-495e-470b-ac91-04374888a72f)
+
+## Output
 
 ## License
 
