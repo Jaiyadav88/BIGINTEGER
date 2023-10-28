@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "Arithmetic.h"
+#include "BigInteger.h"
 BIGINT initialize(char *str)
 {   int i=0;
     BIGINT res;
