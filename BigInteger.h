@@ -1,5 +1,5 @@
-#ifndef Arithmetic_h
-#define Arithmetic_h
+#ifndef BigInteger_h
+#define BigInteger_h
  struct node {
     int data;
     struct node* next;
